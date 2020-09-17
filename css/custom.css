@@ -1,0 +1,31 @@
+input {
+  width: 140px;
+  height: 32px;
+  color: black;
+}
+
+#add-item {
+  margin-top: 20px;
+}
+
+#total-price h1 {
+  display: inline-block;
+  padding-right: 30px;
+}
+
+h1 {
+  font-family: 'Russo One', sans-serif;
+}
+
+.container > h1 {
+  margin-bottom: 30px;
+}
+.row {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 15px;
+}
+
+body {
+  background-image: url(../images/image1.jpg);
+  color: white;
+}
